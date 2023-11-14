@@ -1,4 +1,5 @@
 
+![1](https://github.com/DjordjeCiric/Angular-Hotel./assets/122276294/5ad44aa3-4fd0-472f-9a98-ee81da9a4463)
 This project was developed as part of a school assignment with the objective of demonstrating basic skills and knowledge in the Angular CLI environment.
 
 Features
